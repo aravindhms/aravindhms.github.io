@@ -60,3 +60,47 @@ img:hover {
 }
 
 
+/* Social media button styles */
+
+.btn-social {
+    border: none;
+    border-radius: 0.25rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  
+
+  
+
+  
+  .btn-instagram {
+    background-color: #e1306c;
+    color: #ffffff;
+  }
+  
+  .btn-linkedin {
+    background-color: #0072b1;
+    color: #ffffff;
+  }
+  
+
+
+  .btn-github {
+    background-color: #3a3838;
+    color: #ffffff;
+  }
+
+  .btn-whatsapp {
+    background-color: #3cb748;
+    color: #ffffff;
+  }
+  
+  /* Icon styles */
+  
+  .fab {
+    font-size: 1.25rem;
+    margin-right: 0.5rem;
+  }
